@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/ezadeen-mansour-almoshra/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <a href="https://ezadeenalmoshra.pro">
+  <a href="https://ezadeen.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
