@@ -24,7 +24,7 @@
   <a href="https://github.com/Ezadeen-Almoshra">
     <img src="https://img.shields.io/badge/GitHub-Ezadeen--Almoshra-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/ezadeen-mansour-almoshra/">
+  <a href="https://www.linkedin.com/in/ezadeen-almoshra/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://ezadeen.dev">
